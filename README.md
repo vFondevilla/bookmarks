@@ -1,7 +1,6 @@
 # bookmarks
 
-- [Automating the VSAN HCL with PowerCLI - Virtu-Al.Net](http://www.virtu-al.net/2017/01/06/updating-the-vsan-hcl-from-powercli/) 
-- [Digital Project Manager Resolutions for 2017 | Viget](https://www.viget.com/articles/digital-project-manager-resolutions-2017) 
+- [Automating the VSAN HCL with PowerCLI - Virtu-Al.Net](http://www.virtu-al.net/2017/01/06/updating-the-vsan-hcl-from-powercli/)  
 - [Keep your Windows Containers up to date](https://stefanscherer.github.io/keep-your-windows-containers-up-to-date/) 
 - [mreferre/vic-product-machine: A script to automate simple vSphere Integrated Containers deployments](https://github.com/mreferre/vic-product-machine) 
 - [VMs not getting killed after vMSC partition has lifted - Yellow Bricks](http://www.yellow-bricks.com/2017/01/12/vms-not-getting-killed-vmsc-partition-lifted/) 
