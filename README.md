@@ -65,3 +65,4 @@
 - [Personal HOLs | VirtualInsanity](http://virtualinsanity.com/index.php/2017/02/05/build-your-very-own-vmware-hands-on-labs-with-vra-and-nsx/)
 - [First steps with Python and PyvMomi](https://www.vcloudnine.de/first-steps-with-python-and-pyvmomi-vsphere-sdk-for-python/)
 - [Chaperone](https://github.com/vmware/chaperone)
+- [Step by Step 2 node VSAN](http://www.virtualizationblog.com/step-by-step-to-deploy-2-node-vsan-cluster/)
