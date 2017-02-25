@@ -66,3 +66,4 @@
 - [First steps with Python and PyvMomi](https://www.vcloudnine.de/first-steps-with-python-and-pyvmomi-vsphere-sdk-for-python/)
 - [Chaperone](https://github.com/vmware/chaperone)
 - [Step by Step 2 node VSAN](http://www.virtualizationblog.com/step-by-step-to-deploy-2-node-vsan-cluster/)
+- [vRA7.2 y NSX 6.X](http://billho.website/?p=440)
