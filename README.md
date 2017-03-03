@@ -69,3 +69,4 @@
 - [vRA7.2 y NSX 6.X](http://billho.website/?p=440)
 - [Volumio - Open Reproductor](https://volumio.org/)
 - [Unity VSA](http://lab.piszki.pl/emc-unity-vsa-accessible-for-all-for-free-with-support-for-veeam-backup/)
+- [VMware Integrated Containers](https://vmware.github.io/vic-product/assets/files/html/0.8/vic_installation/deploy_vch_vcenter.html)
