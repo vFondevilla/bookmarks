@@ -70,3 +70,4 @@
 - [Volumio - Open Reproductor](https://volumio.org/)
 - [Unity VSA](http://lab.piszki.pl/emc-unity-vsa-accessible-for-all-for-free-with-support-for-veeam-backup/)
 - [VMware Integrated Containers](https://vmware.github.io/vic-product/assets/files/html/0.8/vic_installation/deploy_vch_vcenter.html)
+- [Deploy FreeNAS AIO](https://b3n.org/freenas-9-3-on-vmware-esxi-6-0-guide/)
